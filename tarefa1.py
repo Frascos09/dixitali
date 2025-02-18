@@ -1,0 +1,5 @@
+print("moi bos días a todos")
+print("2+2")
+print(2+2)
+print(4*7)
+print(6/2)
