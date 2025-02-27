@@ -1,0 +1,5 @@
+precio1= input ("canto costa o primeiro?")
+precio2 = input ("canto costa o segundo?")
+precio3 = input ("canto costa o terceiro?")
+total = (precio1+precio2+precio3)
+print (total)
