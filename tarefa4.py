@@ -1,0 +1,6 @@
+resp = input("cual é o teu nome?   ")
+print("Que nome máis chulo" , resp)
+print("Eres buena gente " , resp)
+print("Eres genial " , resp)
+print("Non hay nada como " , resp)
+print("hey " , resp , ", eres increible")
